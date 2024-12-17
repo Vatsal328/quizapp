@@ -1,6 +1,6 @@
 package com.vatsal.quizapp.service;
 
-import com.vatsal.quizapp.Question;
+import com.vatsal.quizapp.model.Question;
 import com.vatsal.quizapp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

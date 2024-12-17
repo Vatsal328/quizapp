@@ -1,6 +1,6 @@
 package com.vatsal.quizapp.controller;
 
-import com.vatsal.quizapp.Question;
+import com.vatsal.quizapp.model.Question;
 import com.vatsal.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

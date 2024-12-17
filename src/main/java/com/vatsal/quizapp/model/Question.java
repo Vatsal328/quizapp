@@ -1,4 +1,4 @@
-package com.vatsal.quizapp;
+package com.vatsal.quizapp.model;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import jakarta.persistence.*;
